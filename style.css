@@ -127,3 +127,4 @@ body {
         margin: 0 10px;
     }
 }
+.nav-links a:hover { color: #e74c3c; }
